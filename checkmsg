@@ -1,0 +1,5 @@
+node {
+    stage('Hello') {
+        echo 'urgent need a job to survive and enjoy every second of life'
+    }
+}
